@@ -80,10 +80,15 @@ highest standard deviation of the dataset and so this would include all datapoin
 threshold set at 30 so that some of the points would be excluded.
 
 <div style="width:60px ; height:60px">
-![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/8fc34608-b93f-4586-b4a5-3952d66df536)
-<div>
-![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/e7e9afb7-dd15-41ac-9a4d-eb182ee8c290)
+   
+![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/8fc34608-b93f-4586-b4a5-3952d66df536) 
 
+<div>
+<div>
+   
+![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/e7e9afb7-dd15-41ac-9a4d-eb182ee8c290)
+   
+<div>
 
 The images below show the final combined plot at both std.218 (left) and std.30 (right) - this combines all 
 the files provided in the sample set provided.
