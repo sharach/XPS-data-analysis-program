@@ -21,13 +21,14 @@ The following things need to be installed by the user:
     * matplotlib (version 3.5.1)
     * An IDE such as VSCode
 
-Download files provided.
+Download files provided as a zip file.
 
 ----------------------------------------------------------------------------------------------------------------------
 ## Information on the data provided:
 
-The folder called "Experimental data" contains .dat files and the python code called xps_plotter.py.
-Every .dat file regards the GdH2 metal hydride and the scans were taken at a photon energy of 2410 eV.
+The zip file is called "XPS-data-analysis-program-main".
+It contains .dat files and a python script called xps_plotter.py.
+Every .dat file regards a GdH2 metal hydride and the scans were taken at a photon energy of 2410 eV.
 
 ----------------------------------------------------------------------------------------------------------------------
 ## To run the this program:
