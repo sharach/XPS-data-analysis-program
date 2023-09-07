@@ -79,12 +79,12 @@ was run twice. Firstly, it was run with the standard deviation threshold set at 
 highest standard deviation of the dataset and so this would include all datapoints. Secondly, it was run with the 
 threshold set at 30 so that some of the points would be excluded.
 
-<div style="width:60px ; height:60px">
+<div style="width:60px ; height:30px">
    
 ![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/8fc34608-b93f-4586-b4a5-3952d66df536) 
 
 <div>
-<div>
+<div style="width:60px ; height:30px">
    
 ![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/e7e9afb7-dd15-41ac-9a4d-eb182ee8c290)
    
