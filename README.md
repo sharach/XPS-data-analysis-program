@@ -32,7 +32,7 @@ Every .dat file regards a GdH2 metal hydride and the scans were taken at a photo
 
 ----------------------------------------------------------------------------------------------------------------------
 ## To run the this program:
-1. Run the xps_plotter from one of the subfolders within the "Experimental data" folder in an IDE.
+1. Run the xps_plotter in an IDE.
 2. Enter the inputs requested by the terminal prompts.
 
 ### Inputs:
