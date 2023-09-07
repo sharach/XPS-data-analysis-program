@@ -70,6 +70,22 @@ o	Both plot types.
 * The output type must be selected by entering "i", "b" or "f" (individual plot, final combined plot, both).
 
 -----------------------------------------------------------------------------------------------------------------------
+## Sample output plots for reference:
+
+The images display the output plots for scan_019873scan_VB_SCL with standard deviation threshold at 218 
+(the 1st image) and 30 (the 2nd image). To test the exclusion of datapoints using this threshold function, the program 
+was run twice. Firstly, it was run with the standard deviation threshold set at 218 because 217.72607419999986 is the 
+highest standard deviation of the dataset and so this would include all datapoints. Secondly, it was run with the 
+threshold set at 30 so that some of the points would be excluded.
+![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/8fc34608-b93f-4586-b4a5-3952d66df536)
+![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/e7e9afb7-dd15-41ac-9a4d-eb182ee8c290)
+
+The images below show the final combined plot at both std.218 (1st image) and std.30 (2nd image) - this combines all 
+the files provided in the sample set provided.
+![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/1620ca77-9a70-47b4-ad1a-4009b75376f2)
+![image](https://github.com/sharach/XPS-data-analysis-program/assets/84878235/51119cfa-77c7-48a1-8a9c-15804109e388)
+
+-----------------------------------------------------------------------------------------------------------------------
 ## Important notes to prevent errors:
 
 * In order for this program to run, xps_plotter.py py needs to be saved in the same folder as the .dat files 
